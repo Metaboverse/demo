@@ -10,6 +10,6 @@
 - Regulatory search engine: Find regulatory events that are pathway-naive
 - Nearest neighbor search from metabolite/protein/gene of interest: See network-wide reactions and relationships that entity of interest is involved in (pathway-naive)
 - Interactive pathway searches
-- Multi-omic integration
+- Multi-omic integration of user datasets
 - Metabolic + other signaling networks
 - Customizable network representations
