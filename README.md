@@ -1,4 +1,9 @@
 # Metaboverse demo
+
+### Update
+A more complete version of Metaboverse can be found [here](https://github.com/Metaboverse/Metaboverse/releases/download/metaboverse-v0.0.1b/Metaboverse-darwin-x64-demo.zip)
+
+### Old demo
 - Click [here](https://metaboverse.github.io/demo/) to interact with a simple demo version of Metaboverse.
 - Further documentation can be found [here](https://metaboverse.readthedocs.io/en/latest/).
 - Demo data is derived from: [PR000305](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR000305)
